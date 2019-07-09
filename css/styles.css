@@ -22,3 +22,10 @@ h1 {
   font-size: 15px;
   color: blue;
 }
+
+.about-me {
+  color: red;
+  font-family: monospace;
+  font-size: 30px;
+  margin: 4% 10% 0;
+}
